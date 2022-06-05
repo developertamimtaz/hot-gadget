@@ -1,0 +1,38 @@
+.containers{
+    margin-bottom: 100px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.smartphone h6{
+    color: orange;
+}
+.text-align{
+    text-align: center;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.Laptop h6{
+    color: orange;
+}
+.Laptop{
+    margin-bottom: 30px;
+}
+.product{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
